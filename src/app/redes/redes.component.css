@@ -1,0 +1,49 @@
+/*COLOR EN LOS ICONOS*/
+.fa-instagram:hover{
+    cursor:pointer;
+    color:#FF33DA;
+    
+}
+.fa-facebook:hover{
+cursor:pointer;
+color:blue;
+
+}
+.fa-linkedin:hover{
+    cursor:pointer;
+    color:#2984D5;
+}
+.fa-user:hover{
+    cursor:pointer;
+    color:rgb(7, 102, 58);
+    background-color:transparent;
+    color:aliceblue;
+}
+.fa-instagram:hover{
+    cursor:pointer;
+    color:rgb(180, 49, 141)
+}
+.fa-facebook:hover{
+    cursor:pointer;
+    color:rgb(9, 6, 192)
+}
+.fa-linkedin:hover{
+    cursor:pointer;
+    color:rgb(22, 83, 163)
+}
+.fa-user:hover{
+    cursor:pointer;
+    color:rgb(231, 137, 13)
+}
+.fa-github:hover{
+    cursor:pointer;
+    color:rgb(195, 13, 231)
+}
+.list-group-item{
+    background-color:transparent;
+    border:0px;
+    
+}
+.list-group-horizonta{
+    color:transparent;
+}
